@@ -74,3 +74,15 @@ C:\Users\chenm\source\repos\odetofoodmvc\OdeToFood\OdeToFood.Web\obj\Debug\OdeTo
 C:\Users\chenm\source\repos\odetofoodmvc\OdeToFood\OdeToFood.Web\obj\Debug\OdeToFood.Web.csproj.CopyComplete
 C:\Users\chenm\source\repos\odetofoodmvc\OdeToFood\OdeToFood.Web\obj\Debug\OdeToFood.Web.dll
 C:\Users\chenm\source\repos\odetofoodmvc\OdeToFood\OdeToFood.Web\obj\Debug\OdeToFood.Web.pdb
+C:\Users\chenm\source\repos\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\OdeToFood.Data.dll
+C:\Users\chenm\source\repos\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\OdeToFood.Data.pdb
+C:\Users\chenm\source\repos\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\Autofac.dll
+C:\Users\chenm\source\repos\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\Autofac.Integration.Mvc.dll
+C:\Users\chenm\source\repos\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\Autofac.xml
+C:\Users\chenm\source\repos\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\Autofac.Integration.Mvc.xml
+C:\Users\chenm\source\repos\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\chenm\source\repos\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\System.Web.Http.dll
+C:\Users\chenm\source\repos\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\System.Web.Http.WebHost.dll
+C:\Users\chenm\source\repos\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\System.Net.Http.Formatting.xml
+C:\Users\chenm\source\repos\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\System.Web.Http.xml
+C:\Users\chenm\source\repos\odetofoodmvc\OdeToFood\OdeToFood.Web\bin\System.Web.Http.WebHost.xml
