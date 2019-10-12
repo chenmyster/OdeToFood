@@ -4,3 +4,9 @@ C:\Users\chenm\source\repos\odetofoodmvc\OdeToFood\OdeToFood.Data\obj\Debug\OdeT
 C:\Users\chenm\source\repos\odetofoodmvc\OdeToFood\OdeToFood.Data\obj\Debug\OdeToFood.Data.csproj.CoreCompileInputs.cache
 C:\Users\chenm\source\repos\odetofoodmvc\OdeToFood\OdeToFood.Data\obj\Debug\OdeToFood.Data.dll
 C:\Users\chenm\source\repos\odetofoodmvc\OdeToFood\OdeToFood.Data\obj\Debug\OdeToFood.Data.pdb
+C:\Users\chenm\source\repos\odetofoodmvc\OdeToFood\OdeToFood.Data\bin\Debug\OdeToFood.Data.dll.config
+C:\Users\chenm\source\repos\odetofoodmvc\OdeToFood\OdeToFood.Data\bin\Debug\EntityFramework.dll
+C:\Users\chenm\source\repos\odetofoodmvc\OdeToFood\OdeToFood.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\chenm\source\repos\odetofoodmvc\OdeToFood\OdeToFood.Data\bin\Debug\EntityFramework.xml
+C:\Users\chenm\source\repos\odetofoodmvc\OdeToFood\OdeToFood.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\chenm\source\repos\odetofoodmvc\OdeToFood\OdeToFood.Data\obj\Debug\OdeToFood.Data.csproj.CopyComplete
